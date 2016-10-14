@@ -1,0 +1,21 @@
+1. Add a Person
+2. Add an Animal
+3. View People List
+4. View Animal List
+5. HELP!
+
+1. Add a Person
+	Adds a person or employee
+
+2. Add an Animal
+	Adds an Animal of different types
+
+3. View People List
+	Displays the list of people
+
+4. View Animal List
+	Displays the list of animals
+
+5. HELP
+	Brings you here
+
